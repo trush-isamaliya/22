@@ -1,0 +1,352 @@
+.nav-bar-child2 {
+  position: absolute;
+  top: 0;
+  left: 0;
+  background-color: var(--color-white);
+  width: 790px;
+  height: 61px;
+}
+.hotel-mars14 {
+  margin: 0;
+}
+.hotel-mars13 {
+  position: absolute;
+  top: 0;
+  left: 0;
+  font-size: var(--font-size-5xl);
+  font-weight: 900;
+  color: var(--purple-1);
+  display: inline-block;
+  width: 127px;
+  height: 28px;
+}
+.home5 {
+  position: absolute;
+  top: 6px;
+  left: 239px;
+}
+.rooms-suites4 {
+  left: 298px;
+  display: inline-block;
+  width: 87px;
+  cursor: pointer;
+}
+.facilities8,
+.offers5,
+.rooms-suites4 {
+  position: absolute;
+  top: 6px;
+}
+.facilities8 {
+  left: 411px;
+  cursor: pointer;
+}
+.offers5 {
+  left: 565px;
+  color: var(--purple-1);
+}
+.contacts4,
+.events6,
+.resturant4 {
+  position: absolute;
+  top: 6px;
+  left: 695px;
+  cursor: pointer;
+}
+.events6,
+.resturant4 {
+  left: 484px;
+}
+.events6 {
+  left: 634px;
+}
+.nav-items4 {
+  position: absolute;
+  top: 16px;
+  left: 11px;
+  width: 744px;
+  height: 28px;
+}
+.nav-bar4,
+.offers-child {
+  position: absolute;
+  left: 0;
+  width: 790px;
+}
+.nav-bar4 {
+  top: 0;
+  height: 61px;
+  color: var(--gray-2);
+}
+.offers-child {
+  top: 63px;
+  height: 371px;
+  object-fit: cover;
+}
+.search-offers-now {
+  position: absolute;
+  top: 475px;
+  left: 292px;
+  font-size: var(--font-size-5xl);
+  color: var(--purple-1);
+}
+.footer-page-child2 {
+  position: absolute;
+  top: 0;
+  left: 0;
+  background-color: var(--color-darkslategray);
+  width: 790px;
+  height: 230px;
+}
+.will-give-you4 {
+  margin: 0;
+  font-size: var(--font-size-3xs);
+}
+.hotel-mars-will-container4 {
+  position: absolute;
+  top: 0;
+  left: 3px;
+  display: inline-block;
+  width: 208px;
+  height: 46px;
+  font-size: var(--font-size-5xl);
+}
+.address-road4,
+.phone-number4 {
+  position: absolute;
+  top: 59px;
+  left: 0;
+}
+.phone-number4 {
+  top: 89px;
+}
+.email-hotelmarsgmailcom4 {
+  position: absolute;
+  top: 119px;
+  left: 0;
+}
+.footer-page-left-items4 {
+  width: 232px;
+  height: 133px;
+}
+.about-us4,
+.contact-us4,
+.footer-page-left-items4 {
+  position: absolute;
+  top: 0;
+  left: 0;
+}
+.contact-us4 {
+  top: 30px;
+}
+.facilities9,
+.rooms-rates4 {
+  position: absolute;
+  top: 60px;
+  left: 0;
+}
+.facilities9 {
+  top: 90px;
+}
+.footer-page-center-items4 {
+  position: absolute;
+  top: 15px;
+  left: 391px;
+  width: 93px;
+  height: 104px;
+}
+.twitter4 {
+  position: absolute;
+  top: 59px;
+  left: 0;
+  display: inline-block;
+  width: 51px;
+}
+.footer-items4,
+.footer-page-right-items4 {
+  position: absolute;
+  top: 15px;
+  left: 643px;
+  width: 69px;
+  height: 103px;
+}
+.footer-items4 {
+  top: 49px;
+  left: 39px;
+  width: 712px;
+  height: 133px;
+}
+.footer-page-wrapper,
+.footer-page4 {
+  position: absolute;
+  top: 0;
+  left: 0;
+  width: 790px;
+  height: 230px;
+}
+.footer-page-wrapper {
+  top: 1044px;
+  left: 1px;
+  text-align: left;
+}
+.group-child29,
+.group-child30 {
+  position: absolute;
+  top: 0;
+  left: 0;
+  border-radius: var(--br-xl);
+  background-color: var(--color-gainsboro);
+  width: 559px;
+  height: 357px;
+}
+.group-child30 {
+  top: 79px;
+  background-color: var(--color-white);
+  width: 464px;
+  height: 61px;
+}
+.div {
+  position: absolute;
+  top: calc(50% + 9px);
+  left: calc(50% - 9px);
+}
+.group-child31 {
+  position: absolute;
+  top: 0;
+  left: 0;
+  border-radius: var(--br-xl);
+  background-color: var(--color-white);
+  width: 464px;
+  height: 47px;
+}
+.location-icon {
+  position: absolute;
+  top: 15px;
+  left: 402px;
+  width: 55px;
+  height: 33px;
+  object-fit: cover;
+}
+.choose-location {
+  position: absolute;
+  top: 15px;
+  left: 11px;
+  font-size: var(--font-size-5xl);
+  color: var(--color-darkslategray);
+}
+.calendar-icon2,
+.calendar-icon3 {
+  position: absolute;
+  top: 5px;
+  left: 372px;
+  width: 65px;
+  height: 46px;
+  object-fit: cover;
+}
+.calendar-icon3 {
+  left: 144px;
+}
+.check-in1 {
+  position: absolute;
+  top: 0;
+  left: 0;
+  font-size: var(--font-size-mini);
+  display: inline-block;
+  width: 62px;
+  height: 16px;
+}
+.check-out1 {
+  position: absolute;
+  top: 3px;
+  left: 226px;
+  font-size: var(--font-size-sm);
+}
+.mon13-feb,
+.tue-14-feb {
+  position: absolute;
+  top: 27px;
+  left: 226px;
+  color: var(--color-black);
+}
+.mon13-feb {
+  top: 23px;
+  left: 0;
+}
+.calendar-parent,
+.check-inout {
+  position: absolute;
+  top: 0;
+  left: 0;
+  width: 328px;
+  height: 50px;
+}
+.calendar-parent {
+  top: 82px;
+  left: 25px;
+  width: 437px;
+  height: 51px;
+  font-size: var(--font-size-xl);
+  color: var(--color-gray-100);
+}
+.group-child32,
+.rectangle-parent26 {
+  position: absolute;
+  top: 66px;
+  left: 48px;
+  width: 464px;
+  height: 140px;
+}
+.group-child32 {
+  top: 0;
+  left: 0;
+  border-radius: var(--br-31xl);
+  background-color: #1236f5;
+  width: 252px;
+  height: 44px;
+}
+.search {
+  position: absolute;
+  top: 3px;
+  left: 43px;
+  white-space: pre-wrap;
+}
+.rectangle-parent27 {
+  position: absolute;
+  top: 280px;
+  left: 166px;
+  width: 252px;
+  height: 44px;
+  font-size: var(--font-size-13xl);
+  color: var(--color-white);
+  font-family: var(--font-inter);
+}
+.rectangle-parent25 {
+  position: absolute;
+  top: 536px;
+  left: 122px;
+  width: 559px;
+  height: 357px;
+  opacity: 0.8;
+  text-align: left;
+  font-size: var(--font-size-29xl);
+  color: rgba(0, 0, 0, 0.5);
+}
+.offers6 {
+  position: absolute;
+  top: 227px;
+  left: 315px;
+  font-size: var(--font-size-17xl);
+}
+.offers4 {
+  width: 100%;
+  position: relative;
+  background-color: var(--color-white);
+  border: 1px solid var(--color-white);
+  box-sizing: border-box;
+  height: 1274px;
+  overflow: hidden;
+  text-align: center;
+  font-size: var(--font-size-xs);
+  color: var(--color-white);
+  font-family: var(--font-roboto);
+}
